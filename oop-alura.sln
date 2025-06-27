@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oop-alura", "oop-alura.csproj", "{34CD22E4-8A56-46D8-BEB7-8AE645E5F009}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34CD22E4-8A56-46D8-BEB7-8AE645E5F009}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34CD22E4-8A56-46D8-BEB7-8AE645E5F009}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34CD22E4-8A56-46D8-BEB7-8AE645E5F009}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34CD22E4-8A56-46D8-BEB7-8AE645E5F009}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
