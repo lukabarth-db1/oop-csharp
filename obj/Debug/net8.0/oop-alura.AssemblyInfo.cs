@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("oop-alura")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56e7d6e1bbf88aaa0ca0164481f4e82e9eb3ace5")]
 [assembly: System.Reflection.AssemblyProductAttribute("oop-alura")]
 [assembly: System.Reflection.AssemblyTitleAttribute("oop-alura")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
